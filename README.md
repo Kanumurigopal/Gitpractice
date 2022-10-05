@@ -1,1 +1,1 @@
-echo 'Git integration with Jenkins'
+echo 'Git integration with Jenkins test'
